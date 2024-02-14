@@ -1,0 +1,19 @@
+.grid {
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+    border-collapse: collapse;
+}
+
+.grid th, .grid td {
+    padding: 8px;
+    border: 1px solid black;
+}
+
+.grid th {
+    background-color: #f2f2f2;
+}
+
+tbody tr {
+    text-align: start;
+}
