@@ -9,3 +9,4 @@ Abra o arquivo e use o comando abaixo para executar a aplicação
 ```
 npx http-server -p 8000
 ```
+Ou utilize a extensão live server do Visual Studio Code.
